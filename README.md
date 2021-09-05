@@ -1,2 +1,1 @@
-# learning-javascript
-Created with CodeSandbox
+# Learning JavaScript
